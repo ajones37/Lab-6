@@ -2,10 +2,11 @@ body {
   background-color: lightblue;
 }
 
-h1{color:white;text-align:center;}
+h1{
+	color:white;text-align:center;}
 
 th{
 	border:3px double;}
 	
-td {
+td{
 	font-style:italic;}
