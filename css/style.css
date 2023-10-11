@@ -9,6 +9,10 @@ th{
 border:3px double;}
 	
 td{
-	border:3px solid;
-	font-style:italic;
+font-style:italic;
+border-style:3px solid;}
+
+img{
+	width:100%
+	height:100%
 }
