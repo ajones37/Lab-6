@@ -9,18 +9,11 @@ th{
 border:3px double;}
 	
 td{
-font-style:italic;}
+font-style:italic;
+border-style:3px solid;}
 
 img{
 	width:100%
-	height:90%
+	height:100%
 }
 
-td{
-<<<<<<< HEAD
-	border-style:3px solid;
-}
-=======
-border:3px solid;
-}
->>>>>>> 3edc7aaa007d1eebd58fa79528c486dd1af6e0ac
