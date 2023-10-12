@@ -6,11 +6,14 @@ h1{
 color:white;text-align:center;}
 
 th{
-border:solid;}
+border:solid;
+
+}
 	
 td{
 font-style:italic;
-border-style:solid;}
+color:#758ecd;border-style:solid;
+}
 
 img{
 	width:100%
